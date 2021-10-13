@@ -1,6 +1,5 @@
 <template>
     <div>
-        ToDo
         <Addtodo 
             @add-todo="addTodo"
         />
